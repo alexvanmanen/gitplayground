@@ -1,1 +1,12 @@
-hallo gewoon pushe klaar en daarna kommit en pull doeggggg
+Stappenplan
+git checkout -b <naam eigen branch>
+lekker aanpassen
+git add .
+git commit -m"aanpassingen beschrijven"
+git push
+
+git checkout master
+git merge <naam van je eigen branch>
+git push
+
+O, ja vergeet niet te fetchen;)
