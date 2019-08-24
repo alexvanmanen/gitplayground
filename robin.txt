@@ -8,4 +8,10 @@ ahhhhhhh!!!!!!!!
 en hier op github een wijziging maak......
 
 
+<<<<<<< HEAD
 2 wijzigingen op tegelijk op dezelfde plaats zorgen voor een merge conflict.
+=======
+deze zin verwijderd en lokaal een wijziging gemaakt
+
+als je tegelijk wijzigingen doorvoert komt er een merge conflict voor.
+>>>>>>> d434840a99f0c91dd380f92f4271b64c2c4c1a1e
