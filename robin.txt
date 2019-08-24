@@ -1,5 +1,5 @@
 
-Robin is echt geweldig (deze toevoeging tussen haakjes gaat wellicht wel een conflict opleveren)
+Robin is echt geweldig ( er bestaat pas een conflict als je op reeds gebruikte plekken een aanpassing maakt. Een toevoeging levert geen cocnflict op
 dit levert denk ik geen merge conflict op
 blablabla
 
