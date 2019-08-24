@@ -1,5 +1,5 @@
 
-Robin is echt geweldig
+Robin is echt geweldig (deze toevoeging tussen haakjes gaat wellicht wel een conflict opleveren)
 dit levert denk ik geen merge conflict op
 blablabla
 
