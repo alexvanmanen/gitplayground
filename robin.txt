@@ -8,4 +8,4 @@ ahhhhhhh!!!!!!!!
 en hier op github een wijziging maak......
 
 
-deze zin verwijderd en lokaal een wijziging gemaakt
+2 wijzigingen op tegelijk op dezelfde plaats zorgen voor een merge conflict.
