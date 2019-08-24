@@ -1,5 +1,6 @@
 een nieuwe test
 
+<<<<<<< HEAD
 
 
 
@@ -8,4 +9,6 @@ een nieuwe test
 
 
 
+=======
+>>>>>>> refs/remotes/origin/robin
 een nieuwe test
