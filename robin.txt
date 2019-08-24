@@ -9,3 +9,5 @@ en hier op github een wijziging maak......
 
 
 deze zin verwijderd en lokaal een wijziging gemaakt
+
+als je tegelijk wijzigingen doorvoert komt er een merge conflict voor.
