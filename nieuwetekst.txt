@@ -1,5 +1,5 @@
 
 
-aanpassing(op github gedaan)
+hier is een aanpassing op github op een regel waar lokaal ook een aanpassing is gemaakt.
 
 einde.
