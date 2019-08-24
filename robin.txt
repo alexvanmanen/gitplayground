@@ -1,1 +1,33 @@
+<<<<<<< HEAD
 voor de derde maal alles opnieuw verwijderd.
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gaat dit dan werken?
+>>>>>>> 070dc600534bd0ddcfbdc3114452c865765508de
