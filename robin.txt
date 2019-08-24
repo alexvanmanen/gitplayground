@@ -1,6 +1,7 @@
 
 Robin is echt geweldig ( er bestaat pas een conflict als je op reeds gebruikte plekken een aanpassing maakt. Een toevoeging levert geen cocnflict op
+dit klopt niet
 dit levert denk ik geen merge conflict op
 blablabla
 
-
+nu snap ik het. Er ontstaat pas een conflict wanneer je lokaal een verandering maakt op dezelfde plek je dan een pull-actie uitvoert.
