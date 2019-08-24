@@ -1,14 +1,5 @@
-een nieuwe test
-
-<<<<<<< HEAD
 
 
 
 
-
-
-
-
-=======
->>>>>>> refs/remotes/origin/robin
-een nieuwe test
+einde.
