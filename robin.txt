@@ -13,3 +13,5 @@ nu snap ik het. Er ontstaat pas een conflict wanneer je lokaal een verandering m
 >>>>>>> f8959be6a66926fc206cc75ebb8edc775a95745e
 
 een nieuwe aanpassing
+
+aanpassing op github
