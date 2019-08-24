@@ -5,7 +5,7 @@ begin. (lokaal gedaan)
 hoi.
 konnnichiha op github
 
-
+geen conflict.
 
 
 einde.
