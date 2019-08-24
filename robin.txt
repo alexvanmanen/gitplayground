@@ -3,4 +3,6 @@ Robin is echt geweldig ( er bestaat pas een conflict als je op reeds gebruikte p
 dit levert denk ik geen merge conflict op
 blablabla
 
+dit zal voor ene conflict gaan zorgen
+
 
