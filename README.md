@@ -1,4 +1,4 @@
-# gitplayground
+o# gitplayground
 Hallo??!!
 Nog wat toegevoegd
 hello, it?
@@ -8,4 +8,8 @@ nog een toevoeging
 
 aanpassing op github
 
+<<<<<<< HEAD
 lokale aanpassing
+=======
+nog een aanpassing op github
+>>>>>>> 5237418d2cc2184f300be72a092144baa57b209e
