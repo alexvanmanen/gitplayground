@@ -1,5 +1,5 @@
 begin. (lokaal gedaan)
 
-
+aanpassing(op github gedaan)
 
 einde.
